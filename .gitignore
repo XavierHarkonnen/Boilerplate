@@ -1,0 +1,5 @@
+.vscode
+.ignore/
+build/
+CMakeUserPresets.json
+vgcore.*
